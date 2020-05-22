@@ -16,8 +16,8 @@
   "primaryTokenAttribute": "attributes.hp",
   "secondaryTokenAttribute": null,
   "url": "https://bazjaz.com",
-  "manifest": "https://github.com/bazjaz/zdnd/blob/master/system.json",
-  "download": "",
+  "manifest": "https://github.com/bazjaz/zdnd/raw/master/system.json",
+  "download": "https://drive.google.com/open?id=1kywGthmahLl9a4puXig0C2sOLV4T11oj",
   "license": "LICENSE.txt"
 }
 
