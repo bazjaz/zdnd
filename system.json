@@ -32,6 +32,6 @@
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.5.7",
   "url": "https://bazjaz.com",
-  "manifest": "file:///F:/FoundryVTT/Data/systems/zdnd/system.json",
+  "manifest": "https://github.com/bazjaz/zdnd/system.json",
   "download": ""
 }
